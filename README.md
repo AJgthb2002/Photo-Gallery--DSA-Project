@@ -40,7 +40,7 @@ Functions that can be performed on each image under the edit menu are: </br>
 The Gallery class is a doubly circular linked list. All the image objects are inserted in it, at the beginning of the program. </br>
 Functions of the Gallery class are: </br>
 **`1. View previous image ` &nbsp; &nbsp; `2. View next image `&nbsp; &nbsp; `3. Edit image `&nbsp; &nbsp; `4. View image details  ` </br>
-`5. Make a copy of the image ` </br> `6. Delete image `**
+`5. Make a copy of the image ` &nbsp; &nbsp; `6. Delete image `**
 
 The latest added image appears first when the Gallery is opened by the users. They can naviagte through all images by using the view previous or next options.
 They can choose to edit the currently displayed image, wherein they can perform multiple editing operations on it. All the changes get saved automatically. Users can also view the details of currently displayed image, make a copy of it or delete it.
